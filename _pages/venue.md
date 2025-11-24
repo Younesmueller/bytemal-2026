@@ -4,72 +4,67 @@ permalink: /venue
 layout: default
 carousels:
   - images: 
-    - image: /bytemal-2025/images/location/location1.jpg
-    - image: /bytemal-2025/images/location/location2.png
-    - image: /bytemal-2025/images/location/bustovenue.png
-    - image: /bytemal-2025/images/location/bus-indication-1.png
-    - image: /bytemal-2025/images/location/bus-indication-2.png
-    - image: /bytemal-2025/images/location/bus-indication-3.png
-    - image: /bytemal-2025/images/location/car-indication-1.png
-    - image: /bytemal-2025/images/location/car-indication-2.png
-    - image: /bytemal-2025/images/location/car-indication-3.png
+    - image: /./images/location/location1.jpg
+    - image: /./images/location/location2.png
+    - image: /./images/location/bustovenue.png
+    - image: /./images/location/bus-indication-1.png
+    - image: /./images/location/bus-indication-2.png
+    - image: /./images/location/bus-indication-3.png
+    - image: /./images/location/car-indication-1.png
+    - image: /./images/location/car-indication-2.png
+    - image: /./images/location/car-indication-3.png
 ---
 
 <div class="col-sm-12 px-3">
   <div class="jumbotron p-5" style="text-align:left; font-size:18px">
     <h2><b>The byteMAL venue</b></h2>
-    <p> This year's conference will be held at Leuven University:
+    <p> This year's conference will be held at RWTH Aachen:
     <ul>
-      <li><a href="https://www.kuleuven.be/kulag/en/gebouw/404-28" target="_blank">ON5</a> - Building number: 404-28</li>
-      <li>Herestraat 49</li>
-      <li>3000 Leuven</li>
-      <li>Belgium</li>
+      <li><a href="https://maps.app.goo.gl/iN5rUo9sk271ACD16">SuperC</a></li>
+      <li>6th floor</li>
+      <li>Templergraben 57</li>
+      <li>52062 Aachen</li>
+      <li>Germany</li>
     </ul>
     </p>
     <hr>
     {% include carousel.html height="50" unit="%" duration="30" number="1" %}
   </div>
 </div>
-	  
+
 <div class="card-deck text-center">
+  <div class="card">
+    <img src="/./images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
+    <div class="card-body">
+      <h5 class="card-title">Parking</h5>
+      <p class="card-text" style = "text-align: justify">
+        Parking information will follow!
+        <br>
+        Nicht vergessen:
+        <br>
+        <b>Templergraben ist gesperrt!</b>
+      </p>
+    </div>
+  </div>
 
   <div class="card">
-    <img src="/bytemal-2025/images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
+    <img src="/./images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
     <div class="card-body">
       <h5 class="card-title">Train</h5>
-      <p class="card-text" style = "text-align: justify">The main train station is <b>Leuven station</b>, buses are accessible with a 20 min trip to the venue.</p>
+      <p class="card-text" style = "text-align: left">Aachen West: 5 minute Walk, Aachen Hbf: Bus</p>
     </div>
   </div>
 
 
   <div class="card">
-    <img src="/bytemal-2025/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
+    <img src="/./images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
     <div class="card-body">
       <h5 class="card-title">Bus</h5>
       <p class="card-text" style = "text-align: justify"><b>Recommended</b> way to reach the venue by bus:
-      <ul style = "text-align: left">
-        <li>Exiting the train station Leuven Station, take the bus <a href="https://www.delijn.be/fr/lijnen/3043/?richtingCode=1&stopId=303126&clickSource=map" target="_blank">43 - Leuven Gasthuisberg Campus</a> at Perron 2, ~ 20 min ride (see schedule above).</li>
-        <li>Stop at <b>Gasthuisberg Campus</b> (last stop), not Gasthuisberg Kliniek.</li>
-        <li>Stepping out of the bus, go up hills, climb the stairs on your left.</li>
-        <li>Follow <b>"Blauwe Straat"</b> until reaching gate number 10, ~ 5 min walk.</li>
-	    </ul>
-      </p>
-      <p class="card-text" style = "text-align: justify">Alternative way, if you stop at Gasthuisberg Kliniek:
-      <ul style = "text-align: left">
-        <li>Follow "Ziekenhuis ingang" until reaching the "Toegang Oost" entrance.</li>
-        <li>Enter the hospital and then follow the "Rode/Blauwe Straat" always straight on until exiting the hospital.</li>
-        <li>Turn right and climb the 2 blocks of stairs ("Blauwe Straat"), the entrance of ON5 will be on your left.</li>
-	    </ul>
+      Take the bus!
       </p>
     </div>
   </div>
   
-  <div class="card">
-    <img src="/bytemal-2025/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
-    <div class="card-body">
-      <h5 class="card-title">Car</h5>
-      <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west" target="_blank">Gasthuisberg Campus - Parking West</a>. Exiting the car parking, follow <b>"Blauwe Straat"</b>, climb the 2 blocks of stairs on your left, then the entrance of ON5 will be on your left.</p>
-      <p class="card-text" style = "text-align: justify">Pay attention that payment can <b>only</b> be made using a Belgian debit card or cash.  Unfortunately, credit cards or foreign bank cards are not accepted.</p>
-    </div>
-  </div>
+
 </div>

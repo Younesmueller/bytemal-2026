@@ -1,24 +1,27 @@
 ---
-title:     ByteMAL 2025 Program
+title:     ByteMAL 2026 Program
 permalink: /program
 layout:    default
 ---
 
-<h2><b>byteMAL 2025 schedule</b></h2> 
-<p style = "font-size:20px"><b>Date:</b> Monday April 14, 2025</p>
+
+<div class="row">
+  <div class="col-sm-12 px-3" style="text-align: justify">
+  <h2><b>byteMAL 2026 schedule</b></h2>
+  The full schedule will be published in time.
+  <p><b>Date:</b> Monday <b>April 1, 3141</b>
+  <br>
+  <b>Location:</b> SuperC Aachen</p>
+  </div>
+</div>
+
+
+
 
 | Time (*CEST*) | Description |
 | :-----------: | :---------: |
-| 09:30 – 10:00 | Arrival and registration |
-| 10:00 – 10:15 | Opening |
-| 10:15 – 11:15 | Keynote Presentation: **Joana Pereira** |
-| 11:15 – 11:30 | Coffee break |
-| 11:30 – 13:00 | PhD presentations |
-| 13:00 – 13:30 | Lunch break |
-| 13:30 – 14:30 | Poster event |
-| 14:30 – 15:30 | Keynote Presentation: **Raphaëlle Lesage** |
-| 15:30 – 16:30 | Panel discussion: **Translating research from the lab to the real world** <br> Panel members: Prof. Joana Pereira (KU Leuven), Dr. Raphaëlle Lesage (ESQlabs GmbH), <br> Dr. Bernard Staumont (ULiège), Dr. Janaki Raman (VPH institute) |
-| 16:30 – 16:45 | Prize-giving and closing |
-| 16:45 – ... | Drinks |
+| 09:30 | Arrival and registration |
+| 10:30 | Program |
+| 16:45 | Closing |
 {:.table-bordered .table-hover .my-4}
 

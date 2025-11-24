@@ -9,23 +9,25 @@ layout: default
   <div class="col-sm-12 px-3" style="text-align: justify">
   <h2 id="about-the-bytemal-conference"><b>About byteMAL</b></h2>
   <p><strong>ByteMAL</strong> is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine, 
-  and aims to provide a networking platform for knowledge and expertise exchange across borders. All are welcome to <a href="/bytemal-2025/register">attend and present</a> at byteMAL, but especially PhD candidates, post-docs, and students (master’s and bachelor’s).</p>
-  <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and Liège. For its 8th anniversary event on <a href="/bytemal-2024/program">April 14</a>, a new University will add to this list and the conference will be hosted for the first time in <a href="/bytemal-2024/venue">Leuven</a>!</p>
-  <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, tools, challenges and successes with people of similar mindset. Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2025/speakers">keynote speakers</a>, present their own work, and discuss ideas, tools and approaches with each other.</p>
+  and aims to provide a networking platform for knowledge and expertise exchange across borders. All are welcome to <a href="/./register">attend and present</a> at byteMAL, but especially PhD candidates, post-docs, and students (master’s and bachelor’s).</p>
+  <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and Liège. </p>
+  <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, tools, challenges and successes with people of similar mindset. Participants will have the opportunity to be inspired by our interesting <a href="/./speakers">keynote speakers</a>, present their own work, and discuss ideas, tools and approaches with each other.</p>
 
   <br>
   <p style="text-align: justify">
     <h2><b>Local Organizing Committee</b></h2>
-    <ul class="list-unstyled">
-      <li>Liesbet Geris - ULiège/KU Leuven</li>
-      <li>Sophie Nguyen - KU Leuven</li>
-      <li>Laura Lafuente-Gracia - KU Leuven</li>
-      <li>Luiz Ladeira - ULiège</li>
-      <li>Bernard Staumont - ULiège</li>
-      <li>Loïc Comeliau - ULiège</li>
-    </ul>
-  </p>
-
+    <h3><b>Prelimary List</b></h3>
+    <ul class="list-unstyled">      
+      <li>The person I forgot to put onto the list - Their Insitute</li>
+      <li>Jonas Kupschus - Computational Biomedicine</li>
+      <li>Jonas Wolber - Computational Biomedicine</li>
+      <li>Marc-Daniel Hagel - Computational Biomedicine</li>
+      <li>Qiuje Wang - Computational Biomedicine</li>
+      <li>Karan Kumar - Institute of Applied Microbiology</li>
+      <li>Titania Sugiarto - Institute of Applied Microbiology</li>
+      <li>Younes Müller - Computational Biomedicine</li>
+</ul>
+</p>
   <br>
   <p style="text-align: justify">
     <h2><b>Contact</b></h2>
@@ -33,7 +35,8 @@ layout: default
   </p>
   
 </div>
-  
+
+  </div>
 
 
 
