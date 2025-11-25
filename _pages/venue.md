@@ -4,15 +4,15 @@ permalink: /venue
 layout: default
 carousels:
   - images: 
-    - image: /./images/location/location1.jpg
-    - image: /./images/location/location2.png
-    - image: /./images/location/bustovenue.png
-    - image: /./images/location/bus-indication-1.png
-    - image: /./images/location/bus-indication-2.png
-    - image: /./images/location/bus-indication-3.png
-    - image: /./images/location/car-indication-1.png
-    - image: /./images/location/car-indication-2.png
-    - image: /./images/location/car-indication-3.png
+    - image: {{site.baseurl}}/images/location/location1.jpg
+    - image: {{site.baseurl}}/images/location/location2.png
+    - image: {{site.baseurl}}/images/location/bustovenue.png
+    - image: {{site.baseurl}}/images/location/bus-indication-1.png
+    - image: {{site.baseurl}}/images/location/bus-indication-2.png
+    - image: {{site.baseurl}}/images/location/bus-indication-3.png
+    - image: {{site.baseurl}}/images/location/car-indication-1.png
+    - image: {{site.baseurl}}/images/location/car-indication-2.png
+    - image: {{site.baseurl}}/images/location/car-indication-3.png
 ---
 
 <div class="col-sm-12 px-3">
@@ -34,7 +34,7 @@ carousels:
 
 <div class="card-deck text-center">
   <div class="card">
-    <img src="/./images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
+    <img src="{{site.baseurl}}/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
     <div class="card-body">
       <h5 class="card-title">Parking</h5>
       <p class="card-text" style = "text-align: justify">
@@ -48,7 +48,7 @@ carousels:
   </div>
 
   <div class="card">
-    <img src="/./images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
+    <img src="{{site.baseurl}}/images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
     <div class="card-body">
       <h5 class="card-title">Train</h5>
       <p class="card-text" style = "text-align: left">Aachen West: 5 minute Walk, Aachen Hbf: Bus</p>
@@ -57,7 +57,7 @@ carousels:
 
 
   <div class="card">
-    <img src="/./images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
+    <img src="{{site.baseurl}}/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
     <div class="card-body">
       <h5 class="card-title">Bus</h5>
       <p class="card-text" style = "text-align: justify"><b>Recommended</b> way to reach the venue by bus:
