@@ -2,7 +2,7 @@ markdown: kramdown
 title: "byteMAL 2026"
 include: ["_pages"]
 url: "https://younesmueller.github.io"
-baseurl: "bytemal-2026"
+baseurl: "/bytemal-2026"
 
 plugins:
   - jekyll-seo-tag
