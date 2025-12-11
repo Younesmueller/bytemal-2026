@@ -4,15 +4,15 @@ permalink: /venue
 layout: default
 carousels:
   - images: 
-    - image: {{site.baseurl}}/images/location/location1.jpg
-    - image: {{site.baseurl}}/images/location/location2.png
-    - image: {{site.baseurl}}/images/location/bustovenue.png
-    - image: {{site.baseurl}}/images/location/bus-indication-1.png
-    - image: {{site.baseurl}}/images/location/bus-indication-2.png
-    - image: {{site.baseurl}}/images/location/bus-indication-3.png
-    - image: {{site.baseurl}}/images/location/car-indication-1.png
-    - image: {{site.baseurl}}/images/location/car-indication-2.png
-    - image: {{site.baseurl}}/images/location/car-indication-3.png
+    - image: /images/location/location1.jpg
+    - image: /images/location/location2.png
+    - image: /images/location/bustovenue.png
+    - image: /images/location/bus-indication-1.png
+    - image: /images/location/bus-indication-2.png
+    - image: /images/location/bus-indication-3.png
+    - image: /images/location/car-indication-1.png
+    - image: /images/location/car-indication-2.png
+    - image: /images/location/car-indication-3.png
 ---
 
 <div class="col-sm-12 px-3">

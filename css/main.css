@@ -158,3 +158,12 @@ td{ padding: 10px; }
   from {opacity: .4}
   to {opacity: 1}
 }
+
+ul.nav li.nav-item a.nav-general {
+        color: #0088cc !important;
+        font-size: 24px !important;
+      }
+ul.nav li.nav-item a.nav-active {
+  color: #d7d736 !important;
+  font-size: 24px !important;
+}
