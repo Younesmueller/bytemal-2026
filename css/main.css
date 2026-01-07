@@ -1,8 +1,8 @@
 
 html { overflow-y: scroll; }
 
-h2 { color: #0088cc }
-h1, h3, h4 { color: #133346; }
+/* h2 { color: #0088cc } */
+h1, h2, h3, h4 { color: #133346; }
 
 /* keynote horizontal card pics */
 .card-img{
@@ -164,6 +164,6 @@ ul.nav li.nav-item a.nav-general {
         font-size: 24px !important;
       }
 ul.nav li.nav-item a.nav-active {
-  color: #d7d736 !important;
+  color: #cece0aff !important;
   font-size: 24px !important;
 }

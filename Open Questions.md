@@ -17,8 +17,9 @@ bytemall #0086cb
 A #cba900
 
 
+Datum: 17.04
 
-* Deadline for Publishing of Website
+
 * Richard wegen Domain ansprechen
 
 

@@ -27,8 +27,8 @@ carousels:
       <li>Germany</li>
     </ul>
     </p>
-    <hr>
-    {% include carousel.html height="50" unit="%" duration="30" number="1" %}
+    <!-- <hr> -->
+    <!-- {% include carousel.html height="50" unit="%" duration="30" number="1" %} -->
   </div>
 </div>
 
@@ -38,11 +38,7 @@ carousels:
     <div class="card-body">
       <h5 class="card-title">Parking</h5>
       <p class="card-text" style = "text-align: justify">
-        Parking information will follow!
-        <br>
-        Nicht vergessen:
-        <br>
-        <b>Templergraben ist gesperrt!</b>
+        Parking information will be provided timely!
       </p>
     </div>
   </div>

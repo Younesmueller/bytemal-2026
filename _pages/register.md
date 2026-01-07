@@ -34,7 +34,8 @@ layout:    default
 		  </p>
 	  </div>
   </div>
-	
+
+
   <div class="col-sm-4 px-3">
 	  <div class="jumbotron p-5 bg-dark text-white h-100" style="text-align: left">
 		  <p style="font-size: 30px"><b>Poster guidelines</b></p>

@@ -5,7 +5,7 @@ layout: default
 variables:
   -link: &compbio "https://www.ukaachen.de/kliniken-institute/joint-research-center-for-computational-biomedicine/lehre/institute-for-computational-biomedicine/"
   -link: &disease "https://www.ukaachen.de/kliniken-institute/joint-research-center-for-computational-biomedicine/lehre/institute-for-computational-biomedicine-and-disease-modelling-with-focus-on-phase-transitions-between-phenotypes/"
-  -link: $micro 
+  -link: $micro "https://www.iamb.rwth-aachen.de/cms/iamb/das-institut/team/gruppe-blank/postdoc/~bhhocr/karan-kumar/?allou=1&lidx=1"
 organizers:  
   - name: "Jonas Kupschus"
     affiliation: "Computational Biomedicine"
@@ -25,11 +25,11 @@ organizers:
     image: "qiwang.jpg"
   - name: "Dr. Karan Kumar"
     affiliation: "Institute of Applied Microbiology"
-    affiliation_link: "https://www.iamb.rwth-aachen.de/cms/iamb/das-institut/team/gruppe-blank/postdoc/~bhhocr/karan-kumar/?allou=1&lidx=1"
+    affiliation_link: *micro
     image: "kakumar.jpg"
   - name: "Titania Sugiarto"
     affiliation: "Institute of Applied Microbiology"
-    affiliation_link: "https://www.iamb.rwth-aachen.de/cms/iamb/das-institut/team/gruppe-blank/doktoranden/~bmhohf/titania-sugiarto/?allou=1"
+    affiliation_link: *micro
     image: "default.png"
   - name: "Younes Müller"
     affiliation: "Computational Biomedicine"

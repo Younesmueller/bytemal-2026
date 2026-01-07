@@ -9,9 +9,9 @@ layout:    default
   <div class="col-sm-12 px-3" style="text-align: justify">
   <h2><b>byteMAL 2026 schedule</b></h2>
   The full schedule will be published in time.
-  <p><b>Date:</b> Monday <b>April 1, 3141</b>
-  <br>
-  <b>Location:</b> SuperC Aachen</p>
+  <p><b>Date:</b> Friday <b>April 14 2026</b>
+  <br>  
+  <b>Location:</b> <a href="{{site.baseurl}}/venue"> SuperC Aachen</a></p>
   </div>
 </div>
 
