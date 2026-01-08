@@ -26,7 +26,7 @@ organizers:
   - name: "Dr. Karan Kumar"
     affiliation: "Institute of Applied Microbiology"
     affiliation_link: *micro
-    image: "kakumar.jpg"
+    image: "kakumar.png"
   - name: "Titania Sugiarto"
     affiliation: "Institute of Applied Microbiology"
     affiliation_link: *micro
